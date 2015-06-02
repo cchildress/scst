@@ -1,0 +1,1 @@
+cmd_/root/scst/scst-3.0.1/src/scst.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /root/scst/scst-3.0.1/src/scst.ko /root/scst/scst-3.0.1/src/scst.o /root/scst/scst-3.0.1/src/scst.mod.o

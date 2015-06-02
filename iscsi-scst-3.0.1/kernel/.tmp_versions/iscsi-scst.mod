@@ -1,0 +1,2 @@
+/root/scst/iscsi-scst-3.0.1/kernel/iscsi-scst.ko
+/root/scst/iscsi-scst-3.0.1/kernel/iscsi.o /root/scst/iscsi-scst-3.0.1/kernel/nthread.o /root/scst/iscsi-scst-3.0.1/kernel/config.o /root/scst/iscsi-scst-3.0.1/kernel/digest.o /root/scst/iscsi-scst-3.0.1/kernel/conn.o /root/scst/iscsi-scst-3.0.1/kernel/session.o /root/scst/iscsi-scst-3.0.1/kernel/target.o /root/scst/iscsi-scst-3.0.1/kernel/event.o /root/scst/iscsi-scst-3.0.1/kernel/param.o

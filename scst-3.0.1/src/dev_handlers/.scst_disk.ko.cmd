@@ -1,0 +1,1 @@
+cmd_/root/scst/scst-3.0.1/src/dev_handlers/scst_disk.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /root/scst/scst-3.0.1/src/dev_handlers/scst_disk.ko /root/scst/scst-3.0.1/src/dev_handlers/scst_disk.o /root/scst/scst-3.0.1/src/dev_handlers/scst_disk.mod.o

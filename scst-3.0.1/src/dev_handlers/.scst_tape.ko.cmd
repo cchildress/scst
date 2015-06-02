@@ -1,0 +1,1 @@
+cmd_/root/scst/scst-3.0.1/src/dev_handlers/scst_tape.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /root/scst/scst-3.0.1/src/dev_handlers/scst_tape.ko /root/scst/scst-3.0.1/src/dev_handlers/scst_tape.o /root/scst/scst-3.0.1/src/dev_handlers/scst_tape.mod.o

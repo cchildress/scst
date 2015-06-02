@@ -1,0 +1,1 @@
+cmd_/root/scst/iscsi-scst-3.0.1/kernel/iscsi-scst.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /root/scst/iscsi-scst-3.0.1/kernel/iscsi-scst.ko /root/scst/iscsi-scst-3.0.1/kernel/iscsi-scst.o /root/scst/iscsi-scst-3.0.1/kernel/iscsi-scst.mod.o
